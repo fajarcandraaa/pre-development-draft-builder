@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+dist/
+*.env
+.env.*
+.devin/
+docs/
+prompting/
+AGENT.md
+# Provider config lives in ~/.docbuilder/ (outside repo), no ignore needed
