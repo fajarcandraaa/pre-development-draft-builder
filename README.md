@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-Pre-Development Document Builder
+Pre-Development Draft Builder
 </div>
 <div align="center">
-AI-assisted CLI tool for generating pre-development documents using AI.
+AI-assisted CLI tool for generating pre-development draft using AI.
 </div>
 
 ## Installation
