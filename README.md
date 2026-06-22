@@ -3,7 +3,9 @@
 </div>
 
 <br>
+<div align="center">
 <span style="font-size: 24px; font-weight: bold; vertical-align: middle;">Pre-Development Document Builder</span>
+</div>
 <div align="center">
 AI-assisted CLI tool for generating pre-development documents using AI.
 </div>
