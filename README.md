@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="project-logo.png" alt="Mindtoscreen Pre-Development Document Builder" width="50" style="vertical-align: middle;"> 
+  <img src="project-logo.png" alt="Mindtoscreen Pre-Development Document Builder" width="100" style="vertical-align: middle;"> 
 </div>
 
 <br>
