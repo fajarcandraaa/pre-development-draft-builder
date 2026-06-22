@@ -1,4 +1,4 @@
-![Mindtoscreen Pre-Development Document Builder](project-logo.png)
+<img src="project-logo.png" alt="Mindtoscreen Pre-Development Document Builder" width="200"> Pre-Development Document Builder
 
 AI-assisted CLI tool for generating pre-development documents using AI.
 
