@@ -1,4 +1,4 @@
-# Mindtoscreen Pre-Development Document Builder
+![Mindtoscreen Pre-Development Document Builder](project-logo.png)
 
 AI-assisted CLI tool for generating pre-development documents using AI.
 
