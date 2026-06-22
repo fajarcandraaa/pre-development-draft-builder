@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="project-logo.png" alt="Mindtoscreen Pre-Development Document Builder" width="50" style="vertical-align: middle;"> <span style="font-size: 24px; font-weight: bold; vertical-align: middle;">Pre-Development Document Builder</span>
+  <img src="project-logo.png" alt="Mindtoscreen Pre-Development Document Builder" width="50" style="vertical-align: middle;"> 
 </div>
 
 <br>
+<span style="font-size: 24px; font-weight: bold; vertical-align: middle;">Pre-Development Document Builder</span>
 <div align="center">
 AI-assisted CLI tool for generating pre-development documents using AI.
 </div>
