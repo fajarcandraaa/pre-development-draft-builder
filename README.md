@@ -2,7 +2,6 @@
   <img src="project-logo.png" alt="Mindtoscreen Pre-Development Document Builder" width="100" style="vertical-align: middle;"> 
 </div>
 
-<br>
 <div align="center">
 Pre-Development Document Builder
 </div>
